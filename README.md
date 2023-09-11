@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @debayan-bhattacharjee
-- 🌱 I’m currently learning React Native
+- 🌱 I’m currently learning Git. XD
 - 👀 I’m interested in Sports, Gaming & Music
 - 📫 How to reach me: debayan.b@brickredsys.in
 
